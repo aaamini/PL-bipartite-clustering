@@ -1,5 +1,5 @@
 # PL-bipartite-clustering
-Pseudo-likelihood (PL) bipartite clustering (+ spectral clustering)
+Pseudo-likelihood (PL) bipartite clustering (+ spectral clustering).
 
 Run `test_real_data.m`. The code implements the following:
 - `biSpecClust3`: Laplacian-type spectral clustering as discussed in the following paper: [Matched Bipartite Block Model with Covariates, by Razaee, Amini and Li](https://www.jmlr.org/papers/volume20/17-153/17-153.pdf) [1].
